@@ -25,6 +25,9 @@ body {
     text-shadow: none;
 }
 
+a {
+	color: #D96A29;
+}
 hr {
     display: block;
     height: 1px;
@@ -74,18 +77,18 @@ body {
    =================== */
 
 .header-container {
-    border-bottom: 20px solid #ff2d63;
+    border-bottom: 20px solid #D96A29;
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #ff2d63;
+    border-top: 20px solid #D96A29;
 }
 
 .header-container,
 .footer-container,
 .main aside {
-    background: #b9e8ae;
+    background: #D8F2E6;
 }
 
 .main aside h3, .main aside p, .main aside li {
@@ -119,7 +122,7 @@ nav a {
     font-weight: bold;
 
     color: white;
-    background: #ff2d63;
+    background: #D96A29;
 }
 
 nav a:hover,
@@ -248,7 +251,7 @@ nav a:hover {
 
     nav {
         float: right;
-        width: 38%;
+        width: 45%;
     }
 
 /* ============
